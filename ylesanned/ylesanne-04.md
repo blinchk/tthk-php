@@ -7,7 +7,7 @@ Kõik ülesanded on varustatud kommentaaridega ja vormindatud Bootstrapiga. Iga 
 * **Ristkülik või ruut** – kasutaja sisestab ristküliku külgede väärtused. Sinu kood otsustab, kumb on võimalik: ruut või ristkülik
 * **Ristkülik või ruut II** – vastavalt kasutaja sisestatud arvudele kuvatakse vastavalt ruut või ristkülik
 * **Juubel** – kasutaja lisab sünniaasta ning kood väljastab, kas tegemist on juubeliaastaga. Lisa kontroll, mis ei käivita koodi tühjade lahtrite puhul.
-* **Hinne (switch)** – kasutaja sisestab oma KT punktide arvu.
+* **Hinne** – kasutaja sisestab oma KT punktide arvu.
   * kui ta sai rohkem >10p, tuleb kiri SUPER!
   * 5-9p TEHTUD!
   * alla 5p KASIN!
