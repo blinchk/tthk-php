@@ -39,7 +39,6 @@ Iga osa ülesannest on tehtud eraldi PHP-lehel ühes kaustas. Kirjas (ntks komme
   * `"Kimia", "Mynte", "Voomm", "Twiyo", "Layo", "Talane", "Gigashots", "Tagchat", "Quaxo", "Voonyx", "Kwilith", "Edgepulse", "Eidel", "Eadel", "Jaloo", "Oyope", "Jamia"`
   * Tekita firma nimedes massiiv ja korrasta
   * Kuva firmade nimed
-  * Kasutajal on võimalik nime järgi firmasid eemaldada (kuva nimekiri uuesti)
 * **Riigid**
   * `"Indonesia","Canada","Kyrgyzstan","Germany","Philippines",
   "Philippines","Canada","Philippines","South Sudan","Brazil",
