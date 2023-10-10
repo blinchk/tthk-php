@@ -1,4 +1,4 @@
-# Ülesanne 04
+# Ülesanne 4
 
 Kõik ülesanded on varustatud kommentaaridega ja vormindatud Bootstrapiga. Iga osa ülesannest on tehtud eraldi PHP-lehel ühes kaustas.
 
