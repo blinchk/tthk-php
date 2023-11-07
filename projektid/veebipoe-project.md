@@ -4,6 +4,7 @@ Tähtaeg: 21.11
 ## Programmeerimiskeele ja raamistiku valik
 Programmeerimiskeele ja raamistiku valik Back-End'i osas on vaba.
 Front-End'i osas tuleb nii kui nii kasutada JavaScripti, aga soovi korral saab lisaks mingi raamistiku kasutada.
+Andmebaasi osas tuleb eelistada PostgreSQL'i, MySQL'i või SQLite.
 
 ## Tehnilised nõuded
 Disain ja kood peavad olema eraldi. Kõik failid (HTML, JS, CSS) peavad olema ka eraldi. Failidel peavad olema õiged faililaiendid. Andmete lisamine muutmine ja kustutamine toimuvad ilma veebilehte värskendamata.
